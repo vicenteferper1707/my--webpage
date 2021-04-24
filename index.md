@@ -1,9 +1,9 @@
 <html>
  <head>
-   <meta charset= "utf 8>
+   <meta charset="utf 8">
    <title>Index</title>
-                   
-      </head>
+                 
+ </head>
       <body>
        <h1>INDEX<h1>
        <h2> These link will give you the information</h2>
