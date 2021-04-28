@@ -7,7 +7,7 @@
   <body>
   <h1> Index</h1>
   <h2> These links will give you the information</h2>
-  < a href="">accessibility standards</a> <br>
+  < a href="https://github.com/vicenteferper1707/my--webpage/accessibility-standards.html">accessibility standards</a> <br>
   
   </body>
 </html>
